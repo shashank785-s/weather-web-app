@@ -1,41 +1,27 @@
-🌦️ Weather Forecast Web App
-A simple, responsive weather web application built using HTML, CSS, and JavaScript. It allows users to search for a city and view the current weather information using real-time data from a weather API (like OpenWeatherMap).
+A sleek, real-time weather forecast application built with HTML, CSS, and JavaScript. This project fetches live weather data based on city input using the OpenWeatherMap API and displays it in a modern, responsive UI.
 
-🔗 Live Demo
-Click here to view the app <!-- Replace with your deployed app link if available -->
+✨ Key Features
+🔍 Search by City – Instantly fetch weather info for any city
 
-✨ Features
-🌍 Search weather by city name
+🌡️ Real-Time Data – Displays temperature, humidity, and weather description
 
-📍 Get real-time temperature, humidity, and weather conditions
+🎨 Responsive Design – Works smoothly on all screen sizes
 
-🎨 Clean and responsive user interface
+☁️ Dynamic Icons – Weather icons update based on conditions
 
-☁️ Weather icons based on current conditions
-
-📁 Project Structure
+📂 Project Structure
 bash
 Copy
 Edit
 weather-app/
 ├── index.html         # Main HTML page
 ├── style.css          # App styling
-├── script.js          # JavaScript logic for fetching & displaying weather
-🔧 How to Use
-Clone the repository:
+├── script.js          # JavaScript logic (API integration, DOM updates)
+🚀 Getting Started
+Clone the Repository
 
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/weather-app.git
-Open index.html in a browser.
-
-🛠️ Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (ES6)
-
-OpenWeatherMap API (or whichever you're using)
-
+git clone https://github.com/shashank785-s/weather-app.git
+cd weather-app
